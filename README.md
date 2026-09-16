@@ -16,9 +16,8 @@
 
 Salut, je suis **0xVexx** (alias Ajax).
 
-Je suis étudiant en **Cybersécurité**, je passe mon temps à casser des systèmes (légalement) et à en construire. Passionné par le bas niveau, l'offensive security et le développement d'outils.
+Je passe mon temps à casser des systèmes (légalement) et à en construire. Passionné par le bas niveau, l'offensive security et le développement d'outils.
 
-- 🎓 **Études** : École de Cybersécurité.
 - 🚩 **CTF** : Joueur actif et **Créateur de challenges** (HackTheBox, TryHackMe, RootMe).
 - 🐞 **Offensive** : Bug Bounty (YesWeHack) & Pentesting.
 - 💻 **Dev** : Je code mes propres outils et plateformes web.
